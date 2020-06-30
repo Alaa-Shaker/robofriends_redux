@@ -1,6 +1,6 @@
 ## instructions :
 1-   git clone   "linke from green button " <br/>
-2-  cd RoboFriends <br/>
+2-  cd robofriends_redux <br/>
 3-  npm install  <br/>
 4-  npm start <br/>
 
